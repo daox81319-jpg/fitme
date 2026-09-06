@@ -1,0 +1,898 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-08T00:40:00+08:00",
+  "note": "通过 Aime 本地浏览器自动化（用户已登录京东/淘宝/拼多多）抓取的真实商品卡片，用于 Demo 回填展示。 | 2026-07-08 扩充：受控品类通用 query（京东[data-sku]/淘宝 g_bizdata 抓取），配合归一化增强命中率。",
+  "queries": {
+    "白 牛津衬衫 男": {
+      "京东": [
+        {
+          "platform": "京东",
+          "title": "西域骆驼（VANCAMEL）纯色衬衫男春秋季商务正装休闲长袖男士白衬衣 白色 3XL",
+          "price": "¥69",
+          "image_url": "https://img10.360buyimg.com/imagetools/jfs/t1/312127/19/23497/64058/68a6e28eFdd8da2eb/544a38588982b895.jpg.avif",
+          "buy_url": "https://item.jd.com/100033556975.html"
+        },
+        {
+          "platform": "京东",
+          "title": "MUJI男式 水洗牛津纽扣领长袖衬衫 白色 L",
+          "price": "¥178",
+          "image_url": "https://img10.360buyimg.com/imagetools/jfs/t1/227396/4/26163/24029/66cc2d1fF4a375c84/3fe9759a82b0cc45.jpg.avif",
+          "buy_url": "https://item.jd.com/100139975980.html"
+        },
+        {
+          "platform": "京东",
+          "title": "BLACKMONDAY纯棉牛津纺长袖衬衫男全棉抗皱免烫纯色男士商务休闲衬衣",
+          "price": "¥119",
+          "image_url": "https://img14.360buyimg.com/imagetools/jfs/t1/198005/27/35836/113123/6721fa06F3d45543f/ba9d658bdc757919.jpg.avif",
+          "buy_url": "https://item.jd.com/100092373129.html"
+        },
+        {
+          "platform": "京东",
+          "title": "MUJI男式水洗牛津纽扣领长袖衬衫男士男装衬衣26年春季男款 AC4AAC6S 白色条纹 L (175/100A)",
+          "price": "¥178",
+          "image_url": "https://img12.360buyimg.com/imagetools/jfs/t1/460162/31/7517/227979/6a38c4e3F98b87112/00832ee3e8a74fba.png.avif",
+          "buy_url": "https://item.jd.com/10205565688632.html"
+        },
+        {
+          "platform": "京东",
+          "title": "免烫抗皱长袖衬衫常规款纯色方领无口袋商务休闲弹力透气男士上衣 白色 常规款 长袖衬衫 6XL 45【建议190-205斤】 京东自营",
+          "price": "¥39",
+          "image_url": "https://img10.360buyimg.com/n2/s480x480_jfs/t1/399015/15/4455/61930/69a177afFad46c94c/0083320320287098.jpg.avif",
+          "buy_url": "https://item.jd.com/10185814710505.html"
+        }
+      ],
+      "淘宝": [
+        {
+          "platform": "淘宝",
+          "title": "日本公司单 纯棉牛津纺 日系复古工装 长袖白衬衫",
+          "price": "¥65",
+          "image_url": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/2030756951/O1CN01lqBTIK21DbnT4M1WL_!!2030756951.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=669590661055&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=00000FZq0TEfIx0ZGs__dldyyxfuybXscH49CpNbFVhSvhg&skuId=4841520297933&priceTId=2147844b17834233399324793e11c0&utparam=%7B%22aplus_abtest%22%3A%2241961648e35ecb677384df03fdbafed8%22%7D&spm=a21n57.1.item.3"
+        },
+        {
+          "platform": "淘宝",
+          "title": "男士立领衬衫 长袖职业正装 中式无领 修身商务",
+          "price": "¥158",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2565775378/O1CN01jPSoNf1pbArXK19SI_!!2565775378.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=708568387649&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000hyFVKZzvyp3fw8bdjqx3xAXh6PSukC5mHW00rczT2Ck&skuId=4974896961892&priceTId=2147844b17834233399324793e11c0&utparam=%7B%22aplus_abtest%22%3A%22717b42198a1ac6efa4ea1193417f33f3%22%7D&spm=a21n57.1.item.8"
+        },
+        {
+          "platform": "淘宝",
+          "title": "保罗牛津纺 纯色休闲衬衫 男 长袖",
+          "price": "¥148",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/135687063/O1CN01FbP6TE222uT7bx0WT_!!135687063.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=923700130711&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000aRLNv4JLsfccoSh01UAXHHe82wr1NseAo3LpC_n9mbs&skuId=5970058255010&priceTId=2147844b17834233399324793e11c0&utparam=%7B%22aplus_abtest%22%3A%229b0c06f0fdf1ef3adfe36b55de03a7cc%22%7D&spm=a21n57.1.item.9"
+        }
+      ],
+      "拼多多": [
+        {
+          "platform": "拼多多",
+          "title": "cos禁欲长袖斯文男装败类衬衣西装英伦那不勒斯雅痞衬衫高级外套",
+          "price": "¥29.73",
+          "image_url": "https://img.pddpic.com/mms-material-img/2025-11-26/d7615cc3-a119-4c5b-b212-780b750cd91a.jpeg.a.jpeg?imageView2/2/w/1300/q/80/format/webp",
+          "buy_url": "https://mobile.yangkeduo.com/goods.html?goods_id=861537275850"
+        },
+        {
+          "platform": "拼多多",
+          "title": "保罗白色冰丝短袖衬衫男 夏季薄款宽松 半袖衬衣",
+          "price": "¥39.9",
+          "image_url": "https://img.pddpic.com/mms-goods-image/2026-05-08/87b3a143-6990-481b-a9cd-0d3696b3b2e6.jpeg.a.jpeg?imageView2/2/w/1300/q/80/format/webp",
+          "buy_url": "https://mobile.yangkeduo.com/goods.html?goods_id=950609738813"
+        },
+        {
+          "platform": "拼多多",
+          "title": "宇津木 日系新款牛津纺条纹短袖衬衫男 夏季宽松",
+          "price": "¥33.89",
+          "image_url": "https://img.pddpic.com/mms-goods-image/2026-06-05/e0a16301-059a-470b-b432-a100da9fda2b.jpeg.a.jpeg?imageView2/2/w/1300/q/80/format/webp",
+          "buy_url": "https://mobile.yangkeduo.com/goods.html?goods_id=963014802412"
+        }
+      ]
+    },
+    "海军蓝 锥形西裤 男": {
+      "京东": [
+        {
+          "platform": "京东",
+          "title": "高端男士西装裤春秋款爸爸裤子高腰宽松阔腿西裤免烫商务中年男裤 海军蓝 XL (185) 京东自营",
+          "price": "¥68.78",
+          "image_url": "https://img14.360buyimg.com/n2/s480x480_jfs/t1/352392/31/19275/30912/693f66a2F95bdfb3a/3c93a4885c21ad66.jpg.avif",
+          "buy_url": "https://item.jd.com/10205516663429.html"
+        },
+        {
+          "platform": "京东",
+          "title": "BEAMS日本直邮法兰绒锥形西裤 无褶设计 24FW日系 日潮 海军蓝 S",
+          "price": "¥479",
+          "image_url": "https://img13.360buyimg.com/n2/s480x480_jfs/t1/413465/20/3498/28316/69cd0edcFfce6a985/00832bc2bc41119f.jpg.avif",
+          "buy_url": "https://item.jd.com/10215698778058.html"
+        },
+        {
+          "platform": "京东",
+          "title": "BEAMS日本直邮单褶锥形西裤 吸湿速干 休闲裤 25SS日系 日潮 海军蓝 S",
+          "price": "¥449",
+          "image_url": "https://img14.360buyimg.com/n2/s480x480_jfs/t1/409561/18/20146/6134/69cd0f6dF62751c67/00832bc2bccc77e9.jpg.avif",
+          "buy_url": "https://item.jd.com/10215698602654.html"
+        },
+        {
+          "platform": "京东",
+          "title": "BEAMS日本直邮锥形休闲西裤 高腰松紧设计日系 日潮 海军蓝 M",
+          "price": "¥399",
+          "image_url": "https://img10.360buyimg.com/n2/s480x480_jfs/t1/413470/35/3472/17526/69cd11e0Fab6cbcfd/00832bc2bc7288bb.jpg.avif",
+          "buy_url": "https://item.jd.com/10215699598370.html"
+        },
+        {
+          "platform": "京东",
+          "title": "罗蒙（ROMON）西裤男士2024春夏纯色锥形直筒九分英伦免烫修身小脚裤休闲长裤子 卡其色 九分 28 建议90-95斤",
+          "price": "¥104",
+          "image_url": "https://img12.360buyimg.com/n2/s480x480_jfs/t1/279250/18/7614/88928/67de1532Ff47ff86b/6f7a8f7a83dcdc6b.jpg.avif",
+          "buy_url": "https://item.jd.com/10073080846767.html"
+        }
+      ],
+      "淘宝": [
+        {
+          "platform": "淘宝",
+          "title": "MRLEA高级西裤男士极简风双褶垂感微锥商务休闲裤百搭免烫雅痞帅",
+          "price": "¥99",
+          "image_url": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/3618415236/O1CN01hzPQUG1oY8ufop0Qt_!!3618415236.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=1005587553454&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000vhiei7lN-cY91H9CiOjXqfIfyZACDeeYymmw_5lCoIU&skuId=6164249806088&priceTId=214781c517834237549244157e10ed&utparam=%7B%22aplus_abtest%22%3A%22f8e3e622c459a5128111138fd597c738%22%7D&spm=a21n57.1.item.1"
+        },
+        {
+          "platform": "淘宝",
+          "title": "微锥形休闲裤男春夏季薄款显瘦垂感抗皱小西裤男生宽松直筒长裤子",
+          "price": "¥99",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2206610986789/O1CN01kIOs4B201Q1HznA5d_!!2206610986789.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=1034950237457&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=00007UJHNeGuk-wR0h6KoNpD0p4pzCWX7iXTGBEpWbbqblI&skuId=6079627040769&priceTId=214781c517834237549244157e10ed&utparam=%7B%22aplus_abtest%22%3A%2288322a06374e019fb2434486f360c859%22%7D&spm=a21n57.1.item.2"
+        },
+        {
+          "platform": "淘宝",
+          "title": "美式复古经典宽松男士高个子直筒双褶垂感雅痞绅士大码西装休闲裤",
+          "price": "¥92",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/3792617431/O1CN01uNQ6VD24lSDjQEsgb_!!3792617431.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=923537739136&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000m628DCEupNC4_DFQ5rNw0KRMApSdB2GQ4C_wz9Dnkkw&skuId=5803947425635&priceTId=214781c517834237549244157e10ed&utparam=%7B%22aplus_abtest%22%3A%223a53f0aba9a6af541cf56621208a6d39%22%7D&spm=a21n57.1.item.3"
+        },
+        {
+          "platform": "淘宝",
+          "title": "ABOUTS西裤男春夏新款韩版垂坠感微锥休闲百搭简约高级感痞帅通勤",
+          "price": "¥158",
+          "image_url": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/55213779/O1CN017XP4Pf1dmppW5fV63_!!55213779.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=989029288102&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000di7sdGmGBy1hfOOrLZIFzzcCYEzmhOQ24WMc2VtjWOg&skuId=6119269015245&priceTId=214781c517834237549244157e10ed&utparam=%7B%22aplus_abtest%22%3A%2241f9ec7abedc40831ba2019ee2df567f%22%7D&spm=a21n57.1.item.4"
+        },
+        {
+          "platform": "淘宝",
+          "title": "双褶西裤男直筒高级感裤子高档锥形九分裤坠感通勤休闲西装裤长裤",
+          "price": "¥158",
+          "image_url": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/3012389634/O1CN015QnwgX2L2QYxR3abb_!!3012389634.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=732104738456&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000D9W27IOKqpk_OOysVyZ2s4g-w9hI8g7M1BWKaE66_2o&skuId=5071088653426&priceTId=214781c517834237549244157e10ed&utparam=%7B%22aplus_abtest%22%3A%223e69e25bbe8f3d12f1752a6aaa0d8fad%22%7D&spm=a21n57.1.item.5"
+        }
+      ],
+      "拼多多": [
+        {
+          "platform": "拼多多",
+          "title": "SPLi三本针休闲西裤夏季男款直筒阔腿西装裤美式高街时尚休闲裤",
+          "price": "¥98.9",
+          "image_url": "https://img.pddpic.com/garner-api-new/bf99c193439fe6c0292cdba55fd7110e.jpeg?imageView2/2/w/1300/q/80/format/webp",
+          "buy_url": "https://mobile.yangkeduo.com/goods.html?goods_id=958868365382"
+        },
+        {
+          "platform": "拼多多",
+          "title": "3iNiONE 三本针 夏季垂感直筒免烫质感休闲裤 男女宽松西装裤",
+          "price": "¥97.25",
+          "image_url": "https://img.pddpic.com/mms-goods-image/2025-12-10/f924c595-6f12-4702-9c97-522dd9d89aac.png.a.jpeg?imageView2/2/w/1300/q/80/format/webp",
+          "buy_url": "https://mobile.yangkeduo.com/goods.html?goods_id=870203404370"
+        },
+        {
+          "platform": "拼多多",
+          "title": "冰丝西裤男士高弹力夏季薄款休闲西装裤宽松直筒商务免烫长裤子男",
+          "price": "¥36.9",
+          "image_url": "https://img.pddpic.com/mms-goods-image/2026-06-11/001c408a-1ade-485c-ac10-117ffd72d37b.jpeg.a.jpeg?imageView2/2/w/1300/q/80/format/webp",
+          "buy_url": "https://mobile.yangkeduo.com/goods.html?goods_id=965134300698"
+        }
+      ]
+    },
+    "黑 德比鞋 男": {
+      "京东": [
+        {
+          "platform": "京东",
+          "title": "KGV 大头德比皮鞋男士厚底增高7厘米商务休闲英伦圆头青少年大码男鞋 黑色 40 皮鞋码=41运动鞋码",
+          "price": "¥158.8",
+          "image_url": "https://img12.360buyimg.com/n2/s480x480_jfs/t1/107948/38/23328/52804/65f90bc3F9c56a565/cc4cab538811e51d.jpg.avif",
+          "buy_url": "https://item.jd.com/10044192754727.html"
+        },
+        {
+          "platform": "京东",
+          "title": "啄木鸟黑色德比鞋男厚底增高大头鞋男士皮鞋圆头高端发型师男模宽脚潮鞋 黑色 41",
+          "price": "¥88.19",
+          "image_url": "https://img12.360buyimg.com/n2/s480x480_jfs/t1/398488/5/11237/108594/69a6de7bF20d3adf6/008332032004119e.jpg.avif",
+          "buy_url": "https://item.jd.com/10174311138977.html"
+        },
+        {
+          "platform": "京东",
+          "title": "阿猫顿大头皮鞋男款夏季休闲复古厚底增高德比鞋正装英伦风黑色宽脚潮鞋 44 哑光黑",
+          "price": "¥79",
+          "image_url": "https://img13.360buyimg.com/n2/s480x480_jfs/t1/264616/29/2816/245546/676b6df5F0a77001b/73430ea6c070afa9.jpg.avif",
+          "buy_url": "https://item.jd.com/10132199066788.html"
+        },
+        {
+          "platform": "京东",
+          "title": "马登德比鞋男款大头鞋黑色工装鞋通勤马丁靴厚底商务增高正装休闲皮鞋 亮面黑 【男偏大一码&5cm增高/光泽感/男士正装鞋】 41 男码",
+          "price": "¥151.9",
+          "image_url": "https://img13.360buyimg.com/n2/s480x480_jfs/t1/464369/5/10510/562509/6a4137ddFc7f05c07/0083320320bb750c.png.avif",
+          "buy_url": "https://item.jd.com/10037106024793.html"
+        },
+        {
+          "platform": "京东",
+          "title": "FOREVER21男鞋英伦风德比鞋男春秋季圆头工装厚底休闲小皮鞋男 绒面棕 41",
+          "price": "¥199",
+          "image_url": "https://img14.360buyimg.com/n2/s480x480_jfs/t1/348379/18/624/57182/68bd2251F17ceda53/2c59aa279bf1904e.jpg.avif",
+          "buy_url": "https://item.jd.com/100200890749.html"
+        }
+      ],
+      "淘宝": [
+        {
+          "platform": "淘宝",
+          "title": "巴黎小众cleanfit增高德比鞋男潮流百搭英伦风休闲通勤厚底皮鞋女休闲皮鞋韩版橡胶",
+          "price": "¥229",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2217093098198/O1CN01Zw0d9k2AQk2DTun40_!!2217093098198.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=972259020336&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000OVG8dvBYNsayDkth7U_LznYKRwZ_lYLLR3pEHs5REZ8&skuId=5974864688866&priceTId=213e01c817834238736538325e118c&utparam=%7B%22aplus_abtest%22%3A%225062f15e99245a8010522ededaecdbbe%22%7D&spm=a21n57.1.item.5"
+        },
+        {
+          "platform": "淘宝",
+          "title": "哑光黑色德比鞋男米奇大头厚底增高工装鞋英伦复古通勤休闲皮鞋女休闲皮鞋青春潮流中跟(3-5cm)",
+          "price": "¥229",
+          "image_url": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2220083565821/O1CN01EydxyE1ss4aYqLW8k_!!2220083565821.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=974760723701&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000WwpVRTXR57YSCizz75b5ZNJKa5sLQ3Mag2fKzTSyFTw&skuId=5929851637865&priceTId=213e01c817834238736538325e118c&utparam=%7B%22aplus_abtest%22%3A%22b88320a1e124413d5ff62e92e5c2a1f7%22%7D&spm=a21n57.1.item.7"
+        },
+        {
+          "platform": "淘宝",
+          "title": "CollinKnox2026春季英伦风小皮鞋男士黑色软底德比鞋休闲皮鞋",
+          "price": "¥565",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/3524733156/O1CN01MysrgT1ZBV4oD7mch_!!3524733156.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=979580423991&ns=1&abbucket=10&xxc=taobaoSearch&mi_id=0000HhWBa9yKhSlpji2NmeiHhWvsRk-1RN1PiVr_z8UMhl4&skuId=5937530004736&priceTId=213e01c817834238736538325e118c&utparam=%7B%22aplus_abtest%22%3A%22eb28acf3f5ce0b83b5f85a44740c8254%22%7D&spm=a21n57.1.item.10"
+        }
+      ],
+      "拼多多": [
+        {
+          "platform": "拼多多",
+          "title": "环球 爆款皮鞋男款高级感2026春季新款厚底增高英伦通勤大头德比鞋",
+          "price": "¥79",
+          "image_url": "https://img.pddpic.com/mms-goods-image/2026-03-09/e12c2a01-319a-4983-ab6d-8c15235a9624.jpeg.a.jpeg?imageView2/2/w/1300/q/80/format/webp",
+          "buy_url": "https://mobile.yangkeduo.com/goods.html?goods_id=915575936984"
+        },
+        {
+          "platform": "拼多多",
+          "title": "经奢英伦厚底增高德比鞋男 商务西装通勤 复古休闲",
+          "price": "¥79.6",
+          "image_url": "https://img.pddpic.com/mms-goods-image/2026-04-24/a32de73e-4afa-4ca2-9f68-2518cb308a68.jpeg.a.jpeg?imageView2/2/w/1300/q/80/format/webp",
+          "buy_url": "https://mobile.yangkeduo.com/goods.html?goods_id=948956756470"
+        },
+        {
+          "platform": "拼多多",
+          "title": "NOCOPY黑武士皮鞋男款春季新款英伦风男鞋高级感正装厚底德比鞋",
+          "price": "¥59",
+          "image_url": "https://img.pddpic.com/open-gw/2026-06-27/9b4a8079-14dd-4705-bc33-515eb98930b0.jpeg?imageView2/2/w/1300/q/80/format/webp",
+          "buy_url": "https://mobile.yangkeduo.com/goods.html?goods_id=970934960418"
+        }
+      ]
+    },
+    "Polo衫 男": {
+      "京东": [
+        {
+          "platform": "京东",
+          "title": "恺米切（CAMICISSIMA）抗菌短袖Polo衫男7色可选高端男士Polo衫 白色 均码 48",
+          "price": "¥615",
+          "image_url": "https://img12.360buyimg.com/imagetools/jfs/t1/470315/30/10278/84427/6a4b5760F396f2b53/00832ee3e8607c8a.jpg.avif",
+          "buy_url": "https://item.jd.com/10149460971267.html"
+        },
+        {
+          "platform": "京东",
+          "title": "GLM短袖t恤男透气夏季翻领polo衫速干T恤冰丝感休闲运动上衣黑色XL",
+          "price": "¥49",
+          "image_url": "https://img14.360buyimg.com/imagetools/jfs/t1/293505/28/4362/32956/682ebcabF98230a9d/e1fa6214735d2096.jpg.avif",
+          "buy_url": "https://item.jd.com/100047483194.html"
+        },
+        {
+          "platform": "京东",
+          "title": "海澜之家短袖POLO衫男26新马年敦煌系列凉感短袖男夏季黑色L",
+          "price": "¥94",
+          "image_url": "https://img14.360buyimg.com/imagetools/jfs/t1/472656/3/1005/81424/6a44a3a0F74874491/00832ee3e8d42aad.jpg.avif",
+          "buy_url": "https://item.jd.com/100285472144.html"
+        },
+        {
+          "platform": "京东",
+          "title": "森马（Semir）polo衫男夏季翻领上衣26新款商务老钱风t恤凉感速干短袖礼盒可选",
+          "price": "¥79",
+          "image_url": "https://img14.360buyimg.com/imagetools/jfs/t1/468105/33/16125/68999/6a4ba9cbF50e7ed5d/00832ee3e854d9e2.jpg.avif",
+          "buy_url": "https://item.jd.com/100242087599.html"
+        },
+        {
+          "platform": "京东",
+          "title": "GLM森马集团短袖polo衫男夏季冰丝凉感休闲潮流潮牌宽松舒适透气t恤",
+          "price": "¥49.9",
+          "image_url": "https://img12.360buyimg.com/imagetools/jfs/t1/407145/35/10432/55053/69c10de8Fe464f172/00832ee3e8c34f8d.jpg.avif",
+          "buy_url": "https://item.jd.com/100055102742.html"
+        }
+      ]
+    },
+    "T恤 男": {
+      "京东": [
+        {
+          "platform": "京东",
+          "title": "影视飓风\"凉伴\"二代抗菌短袖STORMCREW凉感速干防晒休闲T恤春夏男女衣服 耀夜黑 S",
+          "price": "¥79",
+          "image_url": "https://img11.360buyimg.com/imagetools/jfs/t1/434328/26/21620/25086/6a0eb5baFbb8a9001/00832ee3e8aeddc3.jpg.avif",
+          "buy_url": "https://item.jd.com/10203925676981.html"
+        },
+        {
+          "platform": "京东",
+          "title": "名创优品（MINISO）短袖t恤男士夏季新款重磅纯棉上衣服休闲宽松半袖体恤 浅米 XL",
+          "price": "¥39.9",
+          "image_url": "https://img10.360buyimg.com/imagetools/jfs/t1/405679/14/2166/27502/69b93699F82092aab/00832ee3e84bd52e.png.avif",
+          "buy_url": "https://item.jd.com/100142479055.html"
+        },
+        {
+          "platform": "京东",
+          "title": "森马（Semir）情侣款丨短袖男夏季2026新款白色内搭休闲短袖上衣纯棉3A抗菌t恤",
+          "price": "¥39",
+          "image_url": "https://img14.360buyimg.com/imagetools/jfs/t1/474866/19/6021/99314/6a4ba98aF9555b1c5/00832ee3e80c45d5.jpg.avif",
+          "buy_url": "https://item.jd.com/100166044764.html"
+        },
+        {
+          "platform": "京东",
+          "title": "【京东直采】200g纯棉t恤男女短袖26新款纯棉打底衫内搭t恤 黑色（短袖） 2XL （140-155斤）",
+          "price": "¥44.9",
+          "image_url": "https://img12.360buyimg.com/n2/s480x480_jfs/t20280624/462630/3/8277/87295/6a3cd111Fc448f944/0a02320320c70db5.jpg.avif",
+          "buy_url": "https://item.jd.com/10204582300557.html"
+        },
+        {
+          "platform": "京东",
+          "title": "优斯顿·保罗 EUSTON PAUL正品夏季新款100%纯棉男士短袖T恤高档翻领刺绣中青年百搭POLO衫 黑色 XL",
+          "price": "¥115",
+          "image_url": "https://img13.360buyimg.com/imagetools/jfs/t1/317237/9/12477/93420/6861680aF6f4f54ed/207b9eb6494b5eeb.jpg.avif",
+          "buy_url": "https://item.jd.com/10151981277493.html"
+        }
+      ]
+    },
+    "休闲裤 男": {
+      "京东": [
+        {
+          "platform": "京东",
+          "title": "【纯棉耐磨】四季纯色休闲裤男士宽松大码直筒裤工装工作裤 铁灰色+黑色 【夏薄款】 XL 【适合140-160斤体重】 京东自营",
+          "price": "¥72.02",
+          "image_url": "https://img13.360buyimg.com/n2/s480x480_jfs/t20260605/317794/4/6281/46589/6841096eFa060e61d/bd7a6e294482bb07.jpg.avif",
+          "buy_url": "https://item.jd.com/10136445704523.html"
+        },
+        {
+          "platform": "京东",
+          "title": "班尼路（Baleno）冰丝裤子夏季男士2026新款速干直筒宽松垂感阔腿裤休闲裤薄款长裤",
+          "price": "¥39.3",
+          "image_url": "https://img11.360buyimg.com/imagetools/jfs/t1/421026/15/846/53181/69de0c3bF7d479f0c/00832ee3e853cb68.jpg.avif",
+          "buy_url": "https://item.jd.com/100257973871.html"
+        },
+        {
+          "platform": "京东",
+          "title": "JEEP吉普休闲裤男夏季商务宽松裤子男士直筒百搭男裤 卡其 32",
+          "price": "¥169",
+          "image_url": "https://img12.360buyimg.com/imagetools/jfs/t1/396017/9/10862/137089/699d1c6cF543e7555/00832ee3e879ae0f.jpg.avif",
+          "buy_url": "https://item.jd.com/100088486582.html"
+        },
+        {
+          "platform": "京东",
+          "title": "班尼路裤子美式青少年休闲裤",
+          "price": "¥39",
+          "image_url": "https://img10.360buyimg.com/imagetools/jfs/t1/193999/11/46159/53375/665838e6Ffb9ed7d0/64622633d3b07c19.jpg.avif",
+          "buy_url": "https://item.jd.com/100102804355.html"
+        }
+      ]
+    },
+    "卫衣 男": {
+      "京东": [
+        {
+          "platform": "京东",
+          "title": "Y-3阿迪三叶草新款春秋季休闲运动连帽卫衣双面穿男女同款时尚百搭潮 灰兰色 M 建议体重90~110斤",
+          "price": "¥178",
+          "image_url": "https://img12.360buyimg.com/n2/s480x480_jfs/t1/393958/8/19257/71545/69a17972F31d20e13/00832ee2ee9e8cef.jpg.avif",
+          "buy_url": "https://item.jd.com/10211620020247.html"
+        },
+        {
+          "platform": "京东",
+          "title": "名创优品（MINISO）男士卫衣春季2026年新款简约百搭青少年潮流圆领上衣 麻灰 M",
+          "price": "¥68.9",
+          "image_url": "https://img11.360buyimg.com/imagetools/jfs/t1/261844/28/18610/148315/67aaa074F7dea5401/f14ff44930711c44.jpg.avif",
+          "buy_url": "https://item.jd.com/100149624821.html"
+        },
+        {
+          "platform": "京东",
+          "title": "阿迪达斯（adidas）【反季清仓】卫衣男运动套头衫休闲运动服 黑色 S",
+          "price": "¥109",
+          "image_url": "https://img13.360buyimg.com/n2/s480x480_jfs/t1/434464/24/859/1722980/69fecabaFffb3c175/00830000002e0ba0.jpg.avif",
+          "buy_url": "https://item.jd.com/100245997283.html"
+        },
+        {
+          "platform": "京东",
+          "title": "GENIOLAMODE森马集团卫衣男日系纯色休闲圆领套头上衣宽松舒适百搭长袖",
+          "price": "¥42.9",
+          "image_url": "https://img10.360buyimg.com/imagetools/jfs/t1/187128/16/50072/36873/68a2d3fbF5dd69688/8fdf72eeb57363aa.jpg.avif",
+          "buy_url": "https://item.jd.com/100061479180.html"
+        },
+        {
+          "platform": "京东",
+          "title": "啄木鸟（TUCANO）卫衣男士潮流宽松圆领长袖t恤打底衫学生时尚休闲套头上衣服男装",
+          "price": "¥57.82",
+          "image_url": "https://img11.360buyimg.com/n2/s480x480_jfs/t1/222366/38/42369/44315/665ad5f1Ffe0f1415/28b7bcded0e8e0b4.jpg.avif",
+          "buy_url": "https://item.jd.com/100034702501.html"
+        }
+      ]
+    },
+    "夹克 男": {
+      "京东": [
+        {
+          "platform": "京东",
+          "title": "木林森（MULINSEN）立领夹克外套男士春秋季纯色简约轻商务休闲百搭上衣 黑色 XL",
+          "price": "¥139",
+          "image_url": "https://img10.360buyimg.com/imagetools/jfs/t1/296013/26/19495/69600/688dac96F6cab0115/073469e73af32fbf.jpg.avif",
+          "buy_url": "https://item.jd.com/100265008800.html"
+        },
+        {
+          "platform": "京东",
+          "title": "啄木鸟（TUCANO）藏青色立领飞行员夹克男春秋穿搭美式短款外套情侣高街小众棒球服 藏青色 M 建议90-110斤",
+          "price": "¥73",
+          "image_url": "https://img13.360buyimg.com/n2/s480x480_jfs/t1/408905/15/3173/76950/69c225c7F7f8a9427/00833203208826f1.jpg.avif",
+          "buy_url": "https://item.jd.com/10214393732023.html"
+        },
+        {
+          "platform": "京东",
+          "title": "李宁外套男春秋季款风衣女立领夹克户外防泼水冲锋运动服防风透气上衣",
+          "price": "¥167",
+          "image_url": "https://img13.360buyimg.com/imagetools/jfs/t1/333337/38/7305/40016/68b52c0fF7d0209d8/2fe619c6e21ea0dc.jpg.avif",
+          "buy_url": "https://item.jd.com/100191152413.html"
+        },
+        {
+          "platform": "京东",
+          "title": "啄木鸟（TUCANO）外套男士春秋季夹克男休闲工装连帽上衣服宽松男装 卡其 XL",
+          "price": "¥129",
+          "image_url": "https://img12.360buyimg.com/imagetools/jfs/t1/350882/22/18495/85460/68ff1ce0Fe961ea5e/73f07c5587a0d45e.jpg.avif",
+          "buy_url": "https://item.jd.com/100200741637.html"
+        },
+        {
+          "platform": "京东",
+          "title": "罗蒙双面穿男士商务休闲夹克春秋季新款工装上衣服时尚百搭行政外套男 卡其色【立领】 L (175) 【120-140斤】",
+          "price": "¥173",
+          "image_url": "https://img14.360buyimg.com/imagetools/jfs/t1/334148/29/9781/50215/68baaeb7F27fdeb76/7e3ba10b0e55b963.jpg.avif",
+          "buy_url": "https://item.jd.com/10136403289724.html"
+        }
+      ]
+    },
+    "直筒牛仔裤 男": {
+      "京东": [
+        {
+          "platform": "京东",
+          "title": "罗蒙【棉弹】牛仔裤男高端休闲商务宽松直筒阔腿中年长裤子蓝灰32",
+          "price": "¥139",
+          "image_url": "https://img14.360buyimg.com/imagetools/jfs/t1/282802/24/22647/91494/68074943F598fd4aa/a6aab22fd06287a5.jpg.avif",
+          "buy_url": "https://item.jd.com/100212032084.html"
+        },
+        {
+          "platform": "京东",
+          "title": "名创优品（MINISO）天丝牛仔裤子男士夏季薄款弹力宽松直筒裤子百搭高端冰丝休闲裤男 【天丝薄款】怀旧 M /170(体重110-120斤)",
+          "price": "¥89.9",
+          "image_url": "https://img10.360buyimg.com/imagetools/jfs/t1/454367/8/4130/144264/6a28cf1dF4e7ffe42/00832ee3e8634fbc.jpg.avif",
+          "buy_url": "https://item.jd.com/10225036242990.html"
+        },
+        {
+          "platform": "京东",
+          "title": "海澜之家男士牛仔裤",
+          "price": "¥138",
+          "image_url": "https://img13.360buyimg.com/imagetools/jfs/t1/464028/15/13776/117156/6a44a39fF8eee9aab/00832ee3e8a9ba74.jpg.avif",
+          "buy_url": "https://item.jd.com/100048655578.html"
+        },
+        {
+          "platform": "京东",
+          "title": "西域骆驼（VANCAMEL）牛仔裤男宽松直筒休闲韩版垂感阔腿九分裤子男牛仔长裤 中蓝 L",
+          "price": "¥75.5",
+          "image_url": "https://img10.360buyimg.com/imagetools/jfs/t1/306425/5/1970/112031/68254867F4ca42b9e/c00914f0a9ff7cf4.jpg.avif",
+          "buy_url": "https://item.jd.com/100038996640.html"
+        },
+        {
+          "platform": "京东",
+          "title": "凡客诚品（VANCL）官方店轻弹直筒牛仔裤经典蓝雷总同款青春版 蓝色 32 身高165-180体重140-150",
+          "price": "¥152",
+          "image_url": "https://img12.360buyimg.com/n2/s480x480_jfs/t1/461179/1/16440/82678/6a43f0eeF1c989423/0083320320fdda8b.png.avif",
+          "buy_url": "https://item.jd.com/10179173783417.html"
+        }
+      ],
+      "淘宝": [
+        {
+          "platform": "淘宝",
+          "title": "wassup happy美式牛仔裤男士春秋季2026新款潮牌阔腿休闲宽松裤子",
+          "price": "¥121",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2216862719842/O1CN01fDoECr2MZh75XBhia_!!2216862719842.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=889161919700"
+        },
+        {
+          "platform": "淘宝",
+          "title": "美式泼墨涂鸦弯刀牛仔裤男春季街头oversize阔腿裤宽松水洗长裤子",
+          "price": "¥148",
+          "image_url": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/2214295046324/O1CN01fQAWeJ1waRrhNSocB_!!4611686018427381940-0-item_pic.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=896909844000"
+        },
+        {
+          "platform": "淘宝",
+          "title": "美式水洗磨破牛仔裤男夏季潮牌复古宽松直筒裤vibe百搭休闲长裤子",
+          "price": "¥139",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2214295046324/O1CN01eGVjfU1waRkwnvHCk_!!4611686018427381940-0-item_pic.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=892807670744"
+        },
+        {
+          "platform": "淘宝",
+          "title": "A6 studio夏季不掉色原牛A字阔腿牛仔裤男直筒宽松休闲通勤裤子",
+          "price": "¥235",
+          "image_url": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/2757224822/O1CN01Cz6DLA1lUWvW7me73_!!2757224822.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=990362076569"
+        }
+      ]
+    },
+    "衬衫 男": {
+      "京东": [
+        {
+          "platform": "京东",
+          "title": "凡客诚品（VANCL）衬衫男短袖宽松透气三防肌理感高端衬衣男士夏款休闲装 艾草绿 XL",
+          "price": "¥59.9",
+          "image_url": "https://img10.360buyimg.com/imagetools/jfs/t1/416606/8/6605/129394/69d77975F47be1fc8/00832ee3e8d98667.jpg.avif",
+          "buy_url": "https://item.jd.com/100342323330.html"
+        },
+        {
+          "platform": "京东",
+          "title": "海澜之家男士长袖正装衬衫",
+          "price": "¥104",
+          "image_url": "https://img13.360buyimg.com/imagetools/jfs/t1/327250/31/20252/41495/68c7c184F99d986a2/c5666c2e1b91950b.jpg.avif",
+          "buy_url": "https://item.jd.com/100021889833.html"
+        },
+        {
+          "platform": "京东",
+          "title": "啄木鸟休闲百搭衬衫",
+          "price": "¥59",
+          "image_url": "https://img14.360buyimg.com/imagetools/jfs/t1/272655/3/28966/81327/680f626dF46fed238/f2471788d86eb7ed.jpg.avif",
+          "buy_url": "https://item.jd.com/100010514019.html"
+        },
+        {
+          "platform": "京东",
+          "title": "EAEOVNI短袖衬衫男士商务正装夏季薄免烫白色衬衣男大码冰丝职业装工作服 纯白色短袖【快速到货】 41 【140-150斤】",
+          "price": "¥29.9",
+          "image_url": "https://img14.360buyimg.com/imagetools/jfs/t1/312202/9/11325/58890/6856368cF2b7f71b8/a55a7740930e7f33.jpg.avif",
+          "buy_url": "https://item.jd.com/10097324142344.html"
+        },
+        {
+          "platform": "京东",
+          "title": "JEANSWEST LIFE真维斯短袖衬衣男款夏日冰丝凉感翻领上衣男青少年高级感男士外套",
+          "price": "¥71.89",
+          "image_url": "https://img12.360buyimg.com/imagetools/jfs/t1/404528/18/20959/82292/69c0f89eFc31b00ea/00832ee3e8186fd6.jpg.avif",
+          "buy_url": "https://item.jd.com/100234980232.html"
+        }
+      ],
+      "淘宝": [
+        {
+          "platform": "淘宝",
+          "title": "日系灰白条纹长袖衬衫夏季薄款衬衣港风装休闲情侣春秋季外套",
+          "price": "¥49.9",
+          "image_url": "https://img.alicdn.com/img/O1CN01G2LyaZ1hJkuDmtV2i_!!2215458264257-0-cib.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=1064731060325"
+        },
+        {
+          "platform": "淘宝",
+          "title": "蓝色少年感格纹衬衫外套男女夏季潮牌美式休闲长袖古巴领情侣衬衣",
+          "price": "¥138",
+          "image_url": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/2214295046324/O1CN01pN4b3c1waRlJmXY1h_!!4611686018427381940-0-item_pic.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=901374426518"
+        },
+        {
+          "platform": "淘宝",
+          "title": "古巴领肌理感衬衫短袖男夏季新款百搭休闲T恤半袖宽松高级感外套",
+          "price": "¥128",
+          "image_url": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/2214295046324/O1CN01Biuvq01waRlVJOBsQ_!!4611686018427381940-0-item_pic.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=905094253917"
+        },
+        {
+          "platform": "淘宝",
+          "title": "Holocene美式潮牌多巴胺百搭黄条纹衬衫男度假风宽松休闲短袖衬衣",
+          "price": "¥236",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2208823419358/O1CN01F73u552J01WOGbYJl_!!2208823419358.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=1048818505708"
+        }
+      ]
+    },
+    "西装外套 男": {
+      "京东": [
+        {
+          "platform": "京东",
+          "title": "罗蒙（ROMON）西服男士休闲正装中青年新婚伴郎上班职业商务上衣春秋外套 黑XL",
+          "price": "¥143",
+          "image_url": "https://img13.360buyimg.com/imagetools/jfs/t1/337282/13/20484/52556/68f21cbfF3d66e94c/0f3ff8068b5eff9c.jpg.avif",
+          "buy_url": "https://item.jd.com/100209743793.html"
+        },
+        {
+          "platform": "京东",
+          "title": "罗蒙 西服男士休闲西装男套装外套修身伴郎新郎结婚商务职业正装衣服 黑色双扣（上衣） XL /175【115-130斤】",
+          "price": "¥155",
+          "image_url": "https://img14.360buyimg.com/n2/s480x480_jfs/t1/23475/6/20787/58324/66979492F379e8c7f/288abf4c949ce96c.jpg.avif",
+          "buy_url": "https://item.jd.com/10041340184614.html"
+        },
+        {
+          "platform": "京东",
+          "title": "花花公子（PLAYBOY）西装套装男士大学生公务员商务修身正装免烫结婚西装高级感正装 二扣黑色单西服 XL",
+          "price": "¥98",
+          "image_url": "https://img14.360buyimg.com/n2/s480x480_jfs/t1/408415/22/12257/48099/69c4d4ecF045ee021/0083320320aa0fef.jpg.avif",
+          "buy_url": "https://item.jd.com/10214698496459.html"
+        },
+        {
+          "platform": "京东",
+          "title": "森马（Semir）休闲西服男春季易打理弹力外套2026时尚大贴袋上衣109126111101",
+          "price": "¥179",
+          "image_url": "https://img10.360buyimg.com/imagetools/jfs/t1/476673/39/3184/99892/6a4cbbc9Fcbcdd58f/00832ee3e81d2282.jpg.avif",
+          "buy_url": "https://item.jd.com/100230203715.html"
+        },
+        {
+          "platform": "京东",
+          "title": "BUSYCON【金竹刺绣】新中式青果领西服套装新郎结婚宴会礼服男敬酒服西装 黑色（单上衣） 50 参考体重66KG-72KG",
+          "price": "¥870",
+          "image_url": "https://img14.360buyimg.com/imagetools/jfs/t1/454278/20/12140/115200/6a38a52aF5d4d21ad/00832ee3e85d1143.jpg.avif",
+          "buy_url": "https://item.jd.com/10196283873629.html"
+        }
+      ]
+    },
+    "针织衫 男": {
+      "京东": [
+        {
+          "platform": "京东",
+          "title": "TANGMI LIPTON夏季美式复古痞帅风日常休闲潮搭透气宽松提花针织POLO衫短袖男士 黑灰色 L 建议100-120斤",
+          "price": "¥258",
+          "image_url": "https://img11.360buyimg.com/imagetools/jfs/t1/444031/37/3218/142044/6a180491Fe143672b/00835a07802667fe.jpg.avif",
+          "buy_url": "https://item.jd.com/10223753036741.html"
+        },
+        {
+          "platform": "京东",
+          "title": "ALANUI男士针织衫圆领长袖日常休闲毛衣大地色系罗纹饰边混纺 棕色 均码 |S",
+          "price": "¥3170",
+          "image_url": "https://img13.360buyimg.com/n2/s480x480_jfs/t1/444581/16/9220/32359/6a1fb8c1F10104007/0083320320a450d8.jpg.avif",
+          "buy_url": "https://item.jd.com/10224471264048.html"
+        },
+        {
+          "platform": "京东",
+          "title": "啄木鸟（TUCANO）舒适冰丝镂空花纹针织短袖polo衫男士2026夏季翻领T恤男款 杏色 气质合体舒适版型 3XL 建议160-180斤",
+          "price": "¥78.9",
+          "image_url": "https://img10.360buyimg.com/n2/s480x480_jfs/t1/445126/17/14066/258494/6a265ef7Fe17681f0/008332032038b51b.png.avif",
+          "buy_url": "https://item.jd.com/10224887671770.html"
+        },
+        {
+          "platform": "京东",
+          "title": "京东京造男士高端短袖t恤丝麻棉针织衫男桑蚕丝夏季新款父亲节礼物霜杏L",
+          "price": "¥199",
+          "image_url": "https://img10.360buyimg.com/imagetools/jfs/t20280630/471966/34/1861/169504/6a44c22eF34fa13da/0a022ee3e85b7e0d.jpg.avif",
+          "buy_url": "https://item.jd.com/100268315225.html"
+        },
+        {
+          "platform": "京东",
+          "title": "古先森高级感烟灰色短袖t恤男轻薄透气针织衫夏季通勤老钱风半袖Polo衫 松烟灰色 M 【100-130斤】",
+          "price": "¥169",
+          "image_url": "https://img14.360buyimg.com/imagetools/jfs/t1/456361/3/16567/403824/6a3c9b0fF0341f5c7/00834385a0b39bb6.jpg.avif",
+          "buy_url": "https://item.jd.com/10227287585874.html"
+        }
+      ],
+      "淘宝": [
+        {
+          "platform": "淘宝",
+          "title": "SoleMass「绞缕」卷边领口镂空针织衫 基础三色舒适 百搭短袖T恤",
+          "price": "¥166",
+          "image_url": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2839917604/O1CN01Kdpf68262goQnZlgB_!!2839917604.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=1033806428013"
+        },
+        {
+          "platform": "淘宝",
+          "title": "DAY NY桑蚕丝羊毛费尔岛针织短袖男女复古休闲老钱风通勤内搭t恤",
+          "price": "¥999",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2682484189/O1CN01LE5D3w1gocGEUVfvQ_!!2682484189.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=1053463284548"
+        },
+        {
+          "platform": "淘宝",
+          "title": "TURNTIDE 复古翻领排扣针织短袖开衫宽松百搭简约休闲通勤夏季T恤",
+          "price": "¥139",
+          "image_url": "https://img.alicdn.com/bao/uploaded/i1/3037071464/O1CN010cw4Jp1MgYzYgfbGD_!!3037071464.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=931004353403"
+        },
+        {
+          "platform": "淘宝",
+          "title": "费尔岛提花针织圆领短袖男女春夏潮牌T恤痞帅宽松高级感半袖上衣",
+          "price": "¥118",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2214295046324/O1CN01cNtxRc1waRqHOpyBv_!!4611686018427381940-0-item_pic.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=1021612319274"
+        }
+      ]
+    },
+    "风衣 男": {
+      "京东": [
+        {
+          "platform": "京东",
+          "title": "NASA GISS官方潮牌中长款风衣男女同款休闲宽松青年垂感百搭外套男 黑色 L",
+          "price": "¥125",
+          "image_url": "https://img12.360buyimg.com/imagetools/jfs/t1/236229/15/28774/67565/68ce4c1eF011b9b43/09ad3b2a8988387d.jpg.avif",
+          "buy_url": "https://item.jd.com/100266188222.html"
+        },
+        {
+          "platform": "京东",
+          "title": "李宁外套男春秋季款风衣女立领夹克户外防泼水冲锋运动服防风透气上衣",
+          "price": "¥167",
+          "image_url": "https://img13.360buyimg.com/imagetools/jfs/t1/333337/38/7305/40016/68b52c0fF7d0209d8/2fe619c6e21ea0dc.jpg.avif",
+          "buy_url": "https://item.jd.com/100191152413.html"
+        },
+        {
+          "platform": "京东",
+          "title": "李宁（LI-NING）连帽外套男2026春秋季男士高端上衣防泼水防风青少年冲锋夹克风衣 黑色（连帽梭织外套） L /175（130-139斤）",
+          "price": "¥169",
+          "image_url": "https://img11.360buyimg.com/n2/s480x480_jfs/t1/408154/13/21463/37652/69ce1349F4232ca05/008332032027408a.jpg.avif",
+          "buy_url": "https://item.jd.com/10215680807076.html"
+        },
+        {
+          "platform": "京东",
+          "title": "JEEP SPIRIT外套男春秋季休闲连帽夹克男户外运动防风百搭风衣男 黑色L",
+          "price": "¥129",
+          "image_url": "https://img10.360buyimg.com/imagetools/jfs/t1/333578/2/9661/75326/68ba7decFf3970199/92efd745306d4cee.jpg.avif",
+          "buy_url": "https://item.jd.com/100109461885.html"
+        },
+        {
+          "platform": "京东",
+          "title": "艾梵斯贝长款毛呢大衣男韩版加厚风衣高级感羊绒呢子过膝外套潮加棉呢上衣 黑色加棉 3XL",
+          "price": "¥239",
+          "image_url": "https://img14.360buyimg.com/n2/s480x480_jfs/t1/158010/22/33311/88218/6388b95cE0d884797/452b2f026c4db647.jpg.avif",
+          "buy_url": "https://item.jd.com/10066697729639.html"
+        }
+      ]
+    },
+    "乐福鞋 男": {
+      "淘宝": [
+        {
+          "platform": "淘宝",
+          "title": "ThomWills乐福鞋男反绒老钱风summer walk休闲皮鞋一脚蹬豆豆鞋夏",
+          "price": "¥599",
+          "image_url": "https://img.alicdn.com/imgextra/i4/2919350664/O1CN018ip6uC1GmA3foSxw8_!!2919350664-0-alimamacc.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=804004149378"
+        },
+        {
+          "platform": "淘宝",
+          "title": "老钱风乐福鞋男褶皱软面做旧增高鞋男一脚蹬懒人通勤德比尖头皮鞋",
+          "price": "¥200",
+          "image_url": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/2572480642/O1CN01hVFRIL1Gc5OOLrc0A_!!2572480642.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=1014284505145"
+        },
+        {
+          "platform": "淘宝",
+          "title": "软底豆豆鞋男反绒磨砂皮鞋高级感驾车懒人一脚蹬内增高乐福鞋大码",
+          "price": "¥419",
+          "image_url": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/787733975/O1CN01a7Gqcd1fEbE73IfVQ_!!787733975.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=732577288070"
+        },
+        {
+          "platform": "淘宝",
+          "title": "百丽男鞋26新款羊皮一脚蹬懒人海鸥乐福鞋厚底休闲豆豆鞋A2295AM6",
+          "price": "¥999",
+          "image_url": "https://gw.alicdn.com/imgextra/O1CN01b8HGhv2D654p5rvRa_!!2218980038559-0-picasso.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=1042412031814"
+        },
+        {
+          "platform": "淘宝",
+          "title": "山志MOUNTAINSOURCE 高级正装通勤厚底百搭大头皮鞋大码乐福鞋男",
+          "price": "¥999",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2853480922/O1CN01ee7SlE1IgK9oNXFKq_!!2853480922.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=810721320828"
+        }
+      ]
+    },
+    "切尔西靴 男": {
+      "淘宝": [
+        {
+          "platform": "淘宝",
+          "title": "韩桥日记[未来系列]尖头雅痞短筒靴子牛皮厚底切尔西靴男靴巫师靴",
+          "price": "¥368",
+          "image_url": "https://img.alicdn.com/imgextra/i2/738187452/O1CN012otILN24v4cnIcrYR_!!738187452-0-alimamacc.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=864980204149"
+        },
+        {
+          "platform": "淘宝",
+          "title": "硬货！牛皮内里！切尔西靴男靴子马丁短靴英伦中帮真皮靴高帮男鞋",
+          "price": "¥1388",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/1134997594/O1CN01Ih4PKY25y6d9lpheh_!!1134997594.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=656290475610"
+        },
+        {
+          "platform": "淘宝",
+          "title": "加绒新款手工鞋高档英伦厚底切尔西靴男潮真皮马丁靴方头高帮短靴",
+          "price": "¥898",
+          "image_url": "https://gw.alicdn.com/imgextra/O1CN01mAlFJh1xoTbp7AtBD_!!6000000006490-2-qnaigc.png_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=599970029544"
+        },
+        {
+          "platform": "淘宝",
+          "title": "尖头切尔西靴男英伦风休闲马丁靴男翘头高跟增高厚底高帮皮鞋靴子",
+          "price": "¥199",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/1013460757/O1CN01YCagmx1HSkocfbq14_!!1013460757.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=838598960836"
+        },
+        {
+          "platform": "淘宝",
+          "title": "欧美夏季CHELSEA BOOT切尔西靴男尖头真皮英伦鹿皮高帮马丁靴男潮",
+          "price": "¥1109",
+          "image_url": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/2789231744/TB2ZCi9fR8lpuFjSspaXXXJKpXa_!!2789231744.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=545850307481"
+        }
+      ]
+    },
+    "运动鞋 男": {
+      "淘宝": [
+        {
+          "platform": "淘宝",
+          "title": "【王俊凯同款】骆驼云山2代夏季男鞋透气网面鞋运动鞋户外登山鞋",
+          "price": "¥279",
+          "image_url": "https://img.alicdn.com/img/O1CN013rXa3t1Vsm5X0feYO_!!379092709.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=940464786807"
+        },
+        {
+          "platform": "淘宝",
+          "title": "乔丹网面透气篮球鞋男鞋球鞋2026夏季实战耐磨新款青少年运动鞋男",
+          "price": "¥339",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/458694874/O1CN01KGDksn1lsLZWpHC2D_!!4611686018427379930-0-item_pic.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=600950766976"
+        },
+        {
+          "platform": "淘宝",
+          "title": "安踏毒刺6代丨缓震回弹透气跑步鞋男夏季耐磨有氧慢跑减震运动鞋",
+          "price": "¥399",
+          "image_url": "https://gw.alicdn.com/imgextra/O1CN018iOgim1RaDaEeg4FC_!!385132127-0-picasso.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=848308513190"
+        },
+        {
+          "platform": "淘宝",
+          "title": "回力男鞋2026新款夏季透气网面休闲运动鞋跑步减震增高小白老爹鞋",
+          "price": "¥139",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2210803528590/O1CN019ZlbCH2DKHH4v2yja_!!4611686018427384718-0-item_pic.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=946233455986"
+        },
+        {
+          "platform": "淘宝",
+          "title": "安踏一体织丨轻便软底跑鞋男减震夏季透气运动鞋轻质舒适跑步鞋",
+          "price": "¥299",
+          "image_url": "https://gw.alicdn.com/imgextra/O1CN0184LWak1RaDaED5lDS_!!385132127-0-picasso.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=708711316938"
+        }
+      ]
+    },
+    "锥形西裤 男": {
+      "淘宝": [
+        {
+          "platform": "淘宝",
+          "title": "春季男士加绒保暖毛呢休闲西裤垂顺抗皱长裤微锥男裤百搭商务西裤",
+          "price": "¥114.9",
+          "image_url": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/3555254526/O1CN01BfiIbC1jIxiEzy3zU~crop,17,0,562,750~_!!3555254526.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=1013586759689"
+        },
+        {
+          "platform": "淘宝",
+          "title": "夏季意式老钱风高级感休闲九分西裤男宽松腰带扣锥型直筒裤休闲裤",
+          "price": "¥299.8",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/893351236/O1CN01PsOwla1L08fY1Q1uJ_!!893351236.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=1038405679073"
+        },
+        {
+          "platform": "淘宝",
+          "title": "罗蒙夏季款高级感垂顺西裤男士隐藏松紧腰直筒微锥西装休闲长裤子",
+          "price": "¥268",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/2902970778/O1CN01c79xa51HcNGNfzc19_!!2902970778.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=830769477083"
+        },
+        {
+          "platform": "淘宝",
+          "title": "老钱风休闲西裤男士夏季冰丝薄款新款潮牌宽松直筒锥形九分长裤子",
+          "price": "¥300",
+          "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2217643625/O1CN01TKljEc1ceIsibf7Gm_!!4611686018427383401-0-item_pic.jpg_580x580q90.jpg_.webp",
+          "buy_url": "https://item.taobao.com/item.htm?id=1041349226063"
+        }
+      ]
+    }
+  }
+}
