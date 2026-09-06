@@ -6,12 +6,12 @@
 
 ## 1. 在线 Demo（推荐直接体验）
 
-- 前端（UI）：**https://aadc89cadf0f.aime-app.bytedance.net**
+- 前端（UI）：**https://daox81319-jpg.github.io/fitme/**
 - 后端（API）：**https://n9xisupv.cn-east-fn.bytedance.net**
 
 说明：
 - 前端默认已指向线上后端；你也可以在页面里改 `API BASE (CONFIG)`，或用 URL 参数临时覆盖：
-  - `https://aadc89cadf0f.aime-app.bytedance.net/?api=https://n9xisupv.cn-east-fn.bytedance.net`
+  - `https://daox81319-jpg.github.io/fitme/?api=https://n9xisupv.cn-east-fn.bytedance.net`
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 3. 最小验收步骤（线上）
 
-1) 打开前端：`https://aadc89cadf0f.aime-app.bytedance.net`
+1) 打开前端：`https://daox81319-jpg.github.io/fitme/`
 2) 填写身材参数 → 点击「生成一周穿搭」
 3) 确认返回 7 套（不同参数应产生不同风格/细节的方案）
 4) 上传人脸照片 → 选择某一天 → 点击「生成试穿图」
